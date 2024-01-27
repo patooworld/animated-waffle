@@ -1,0 +1,1 @@
+npx create-next-app --example https://github.com/vercel/platforms platforms
