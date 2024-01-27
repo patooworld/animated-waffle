@@ -1,0 +1,1 @@
+/app: All routes for the app subdomain (app.vercel.pub), where users can customize their individual content pages. As you can see, we're using route groups to customize the layout for the auth and dashboard pages
